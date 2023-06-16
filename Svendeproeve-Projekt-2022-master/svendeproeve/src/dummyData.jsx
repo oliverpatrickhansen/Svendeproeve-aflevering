@@ -1,0 +1,98 @@
+export default[
+    {
+        id:1,
+        image:"https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price:"100 000",
+        adress:"Vesterskovvej 35, Trustrup, 8570",
+        bedrooms:3,
+        bathrooms:2,
+        squareMeters:69,
+        coordinates:[56.03563,9.92787],
+        longitude:9.92787,
+        latitude:56.03563
+    },
+    {
+        id:2,
+        image:"https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price:"420 000",
+        adress:"Grønlandsgade 29, København V, 1828",
+        bedrooms:2,
+        bathrooms:1,
+        squareMeters:54,
+        coordinates:[55.67471,12.54173],
+        longitude:12.54173,
+        latitude:55.67471
+    },
+    {
+        id:3,
+        image:"https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price:"69 000",
+        adress:"Egevænget 91, Hinnerup, 8382",
+        bedrooms:5,
+        bathrooms:3,
+        squareMeters:102,
+        coordinates:[56.25743,10.07985],
+        longitude:10.07985,
+        latitude:56.25743
+    },
+    {
+        id:4,
+        image:"https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price:"FREE",
+        adress:"Gartnervænget 42, 8382 Hinnerup",
+        bedrooms:1,
+        bathrooms:1,
+        squareMeters:24,
+        coordinates:[56.26032,10.07633],
+        longitude:10.07633,
+        latitude:56.26032
+    },
+    {
+        id:5,
+        image:"https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price:"FREE",
+        adress:"Andekæret 59, 5300 Kerteminde",
+        bedrooms:1,
+        bathrooms:1,
+        squareMeters:24,
+        coordinates:[55.65032,12.26518],
+        longitude:10.64198,
+        latitude:55.45441
+    },
+    {
+        id:6,
+        image:"https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price:"FREE",
+        adress:"Rådhuspladsen 2, 8000 Aarhus",
+        bedrooms:1,
+        bathrooms:1,
+        squareMeters:24,
+        coordinates:[56.15270,10.20298],
+        longitude:10.20298,
+        latitude:56.15270
+    },
+    {
+        id:7,
+        image:"https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price:"FREE",
+        adress:"Baunevej 1, 2630 Taastrup",
+        bedrooms:1,
+        bathrooms:1,
+        squareMeters:24,
+        coordinates:[55.63963,12.29623],
+        longitude:12.29623,
+        latitude:55.63963
+    },
+    {
+        id:8,
+        image:"https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price:"FREE",
+        adress:"Murskeen 37, 2630 Taastrup",
+        bedrooms:1,
+        bathrooms:1,
+        squareMeters:24,
+        coordinates:[55.65466,12.27392],
+        longitude:12.26518,
+        latitude:55.65032
+    },
+]
